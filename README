@@ -1,0 +1,5 @@
+Here is the project for Decathlon Score Calculation Project.
+
+You can run the project with 2 parameters for input file location path and output file location path respectively.
+
+Or you can run the project directly and input file path and output file path are set to src/main/resources.
